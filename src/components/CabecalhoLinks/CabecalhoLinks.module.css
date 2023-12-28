@@ -1,0 +1,12 @@
+.link {
+    color: var(--branco);
+    text-decoration: none;
+    font-size: 1.125rem;
+    font-weight: 400;
+    transition: 200ms;
+}
+
+.link:hover {
+    font-weight: 600;
+    text-decoration: underline;
+}
